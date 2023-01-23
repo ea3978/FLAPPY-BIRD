@@ -1,1 +1,1 @@
-# FLAPPY-BIRD unity game source codes
+# FLAPPY-MAN unity game source codes
